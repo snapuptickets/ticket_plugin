@@ -1,4 +1,6 @@
 Snapup Tickets Event Plugin
-=============
+============================
 
-Plugin that allows you to add your Snapup Tickets event to your website.
+Add your event page with all of the event details to your site.
+
+Promote ticket sales and registration directly on your website.
