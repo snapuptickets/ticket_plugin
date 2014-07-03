@@ -1,4 +1,4 @@
-ticket_plugin
+Snapup Tickets Event Plugin
 =============
 
-Plug in that allows you to add your ticket selling module to your website.
+Plugin that allows you to add your Snapup Tickets event to your website.
